@@ -31,7 +31,7 @@ export default () => {
 
    
 
-    const BASE_URL = 'http://api.github.com/users'
+    const BASE_URL = 'https://api.github.com/users'
     const CLIENT_ID = '6360ad7050bdb3481d93'
     const CLIENTE_SECRET = '3ae714568770482c3c6549ff087a31abd4ce2ca5'
 
