@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./desktop.png alt="Desktop Version" />
+  <img src="./desktop.png" alt="Desktop Version" />
 </div>
 
 <div align="center" id="top"> 
